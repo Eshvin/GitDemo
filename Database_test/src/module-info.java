@@ -1,0 +1,2 @@
+module Database_test {
+}
